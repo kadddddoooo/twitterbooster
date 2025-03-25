@@ -1,0 +1,11 @@
+# Twitter Booster
+# Configurazione per i crawler dei motori di ricerca
+
+User-agent: *
+Allow: /
+
+# Disallow backend API
+Disallow: /api/
+
+# Sitemap
+Sitemap: https://www.twitterbooster.com/sitemap.xml 
